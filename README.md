@@ -1,73 +1,47 @@
-🔐 Cybersecurity Learning Journey
+🧪 Lab 01 — Linux Security Fundamentals
 
-Welcome to my cybersecurity learning repository.
+🎯 Objective
 
-I'm documenting my journey from cybersecurity fundamentals toward becoming a cybersecurity professional through practical learning, labs, projects, and continuous improvement.
+Learn basic Linux commands used to understand a system's identity, operating system, network interfaces, and listening services.
 
-🎯 Learning Goals
+🖥️ Environment
 
-- 🐧 Linux & Kali Linux
-- 🌐 Computer Networking
-- 🐍 Python for Cybersecurity
-- 🔎 Network Security
-- 🌐 Web Security
-- 🛡️ Security Operations (SOC)
-- 🚨 Threat Detection
-- 🧪 Ethical Hacking
+- Operating System: Kali Linux
+- Purpose: Cybersecurity learning
+- Environment: My own system
 
-📚 Learning Areas
+🔎 Commands Used
 
-01 — Linux
+1. "whoami"
 
-- Linux commands
-- Users and permissions
-- Processes
-- Services
-- Linux networking
-- Security fundamentals
+Displays the username of the current user.
 
-02 — Networking
+2. "hostname"
 
-- OSI & TCP/IP
-- IP addressing
-- TCP/UDP
-- DNS
-- DHCP
-- Ports
-- Routing
-- Firewalls
+Displays the hostname of the computer.
 
-03 — Python
+3. "uname -a"
 
-- Python fundamentals
-- File handling
-- Networking
-- Log analysis
-- Security automation
+Displays detailed kernel and system information.
 
-04 — Cybersecurity
+4. "ip addr"
 
-- Authentication
-- Authorization
-- Vulnerabilities
-- Security monitoring
-- Incident response
-- Ethical hacking
+Displays network interfaces and IP addressing information.
 
-🧪 Labs
+5. "ss -tuln"
 
-Practical labs and experiments will be documented here as I progress.
+Displays TCP and UDP listening sockets.
 
-🚀 Projects
+🧠 What I Learned
 
-Projects will be added as my skills develop.
+This lab introduced me to basic Linux commands that can be useful when performing system and network security analysis.
 
-📈 Progress
+I learned how to identify the current user, inspect system information, examine network interfaces, and identify listening network services.
 
-Current stage: Cybersecurity Foundations
+🔐 Security Relevance
 
-«Learn → Practice → Build → Document → Improve»
+Understanding the state of a Linux system is an important foundation for cybersecurity. Security professionals need to know what accounts, interfaces, services, and network connections exist before analyzing or securing a system.
 
-🔐 Ethical Use
+📌 Next Step
 
-All security testing documented in this repository is performed against systems I own, controlled laboratory environments, or systems for which I have explicit authorization to test.
+Continue learning Linux users, groups, permissions, processes, services, and logs.
