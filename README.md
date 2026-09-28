@@ -45,3 +45,27 @@ Understanding the state of a Linux system is an important foundation for cyberse
 📌 Next Step
 
 Continue learning Linux users, groups, permissions, processes, services, and logs.
+
+📸 Lab Evidence
+
+The following screenshots document the commands executed during this lab on my Kali Linux system.
+
+1. Current User — "whoami"
+
+"whoami" (screenshots/01%20-whoami.jpeg)
+
+2. Hostname — "hostname"
+
+"hostname" (screenshots/02-hostname.jpeg)
+
+3. System Information — "uname -a"
+
+"system information" (screenshots/03-system-%20info.jpeg)
+
+4. Network Interfaces — "ip addr"
+
+"network interfaces" (screenshots/04-network-interfaces.jpeg)
+
+5. Listening Services — "ss -tuln"
+
+"listening services" (screenshots/05-listening-services.jpeg)
