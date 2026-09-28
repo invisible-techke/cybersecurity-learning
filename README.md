@@ -52,7 +52,7 @@ The following screenshots document the commands executed during this lab on my K
 
 1. Current User — "whoami"
 
-"whoami" (screenshots/01%20-whoami.jpeg)
+"whoami" (screenshots/01-whoami.jpeg)
 
 2. Hostname — "hostname"
 
@@ -60,7 +60,7 @@ The following screenshots document the commands executed during this lab on my K
 
 3. System Information — "uname -a"
 
-"system information" (screenshots/03-system-%20info.jpeg)
+"system information" (screenshots/03-system-info.jpeg)
 
 4. Network Interfaces — "ip addr"
 
