@@ -68,9 +68,26 @@ Understanding Linux permissions is therefore an important foundation for system 
 
 📸 Lab Evidence
 
-Screenshots will be added after completing the practical exercises.
+The following screenshots document the practical exercises completed during this lab on my Kali Linux system.
 
-📌 Next Step
+1. Current User — "whoami"
 
+"whoami" (screenshots/01-whoami.jpeg)
+
+2. User ID and Groups — "id"
+
+"user ID and groups" (screenshots/02-id.jpeg)
+
+3. Current Groups — "groups"
+
+"groups" (screenshots/03-groups.jpeg)
+
+4. Create Security Test File — "touch security-test.txt"
+
+"security test file" (screenshots/04-touch-security.jpeg)
+
+5. Change File Permissions — "chmod 600"
+
+"chmod 600" (screenshots/05-chmod-600.jpeg)
 Continue learning about Linux processes, services, logs, and system security.
 
